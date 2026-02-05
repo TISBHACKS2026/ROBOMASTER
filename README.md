@@ -33,7 +33,6 @@ Gamified extension that gates access to addictive sites (YouTube, Instagram, Tik
 ✅ Homework support - Parents gate breaks behind learning
 ✅ Screen time control - Gentle enforcement vs. harsh blocking
 ✅ Digital literacy - Teaches consequences and rewards
-✅ ADHD support - Structure and gamification help focus
 ✅ Parental customization - Add curriculum-relevant questions
 
 ## Advantages
