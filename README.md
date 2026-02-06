@@ -1,15 +1,15 @@
 # Earn Your Scroll - Browser Extension
 
 ## Problem
-Excessive screen time and digital addiction cost productivity and mental health. Traditional blockers are too rigid. Need balanced approach rewarding learning.
+Students are nowadays too adicted to their gadgets, instead of studying they are always on their phone. The traditional parental controls are too rigid which makes the students despise studying even more.
 
 ## Solution
-Gamified extension that gates access to addictive sites (YouTube, Instagram, TikTok, Reddit, Facebook) behind educational flashcard quizzes. Correct answers unlock 60 seconds of guilt-free browsing.
+Gamified extension/app that restricts access to addictive sites( such as YouTube, Instagram, TikTok, Reddit, Facebook), the user gets to visit the restircted website only when they answer correctly answer the question shown on the flashcard. Correct answers unlock 60 seconds of guilt-free browsing.
 
 ## How It Works
 1. User tries accessing restricted site
-2. Full-screen quiz overlay appears
-3. Answer educational question (4 multiple choice)
+2. Full-screen flashcard quiz appears on their screen
+3. Answer the flashcard to get access to the restricted site
 4. ✅ Correct → 60-second browsing access granted + stats increment
 5. ❌ Wrong → Answers shuffle, try again
 6. After 60 seconds, next access requires new quiz
@@ -19,8 +19,7 @@ Gamified extension that gates access to addictive sites (YouTube, Instagram, Tik
 - **Custom Sites** - Add/remove domains as needed
 - **Educational Component** - Random flashcard questions from curated database
 - **Progress Tracking** - Lifetime statistics dashboard
-- **Non-dismissible** - Full-screen modal prevents cheating
-- **Dark Theme** - Glassmorphic UI with smooth animations
+- **Non-dismissible** - Full-screen mode prevents cheating
 
 ## For Adults
 ✅ Boost work productivity - Eliminate Reddit/YouTube time-waste
@@ -38,10 +37,10 @@ Gamified extension that gates access to addictive sites (YouTube, Instagram, Tik
 ## Advantages
 - **Lightweight** - 50KB, minimal RAM
 - **Privacy-First** - All data local, no cloud sync
-- **Customizable** - Block only YOUR distracting sites
+- **Customizable** - Block only the sites you want
 - **Gamified** - Makes restriction feel rewarding
-- **Cross-Platform** - Edge, Chrome, Brave, Opera
-- **Instant** - Works immediately after install
+- **Cross-Platform** - Edge and Chrome
+- **Access** - Very easy to access and user-friendly
 
 ## Technical Details
 - **Storage**: Chrome storage API (restricted sites, custom sites, stats, bypass timer)
@@ -60,16 +59,20 @@ Gamified extension that gates access to addictive sites (YouTube, Instagram, Tik
 - Spaced repetition algorithm
 - Difficulty levels (Easy/Medium/Hard)
 - Category-based questions (Math, Science, History, etc.)
+- Parents can set what their ward has to learn
 - Leaderboard & achievements
 - Analytics (session history, focus insights)
 - Multi-language support
 - Mobile sync
 
-## Real Impact
-- **College Student**: 240 min/day → 60 min/day social media, learns 70-100 facts/week
-- **Remote Worker**: 2+ extra productive hours/day, eliminates Reddit time-waste
+## Real Impact ##
+Students want to spend more time on social media while parents want them to study, our solution satisfies both their requests (a win-win situation).
 
-## Why It Works
-Unlike traditional blockers, Earn Your Scroll respects user autonomy by *rewarding* desired behavior rather than punishing. Users choose access and earn it through learning—creating sustainable behavior change.
+## Our progrees ##
+Day 1 - Started discussing ideas
+Day 2- Fixed on the idea and started barinstorming ways to make the extension
+Day 3 - Started coding
+Day 4 - Got access to GitHub and started pushing our code to GitHub
+day 5 - Coming soon
 
 **Status**: Active Development | **License**: MIT | **Version**: 1.0
