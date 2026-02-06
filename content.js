@@ -73,7 +73,7 @@ function initializeContentScript() {
 function checkRestrictedSite() {
     const currentDomain = window.location.hostname;
 
-    chrome.storage.local.get(['restrictedSites'], (result) => {
+    chrome?.storage?.local?.get(['restrictedSites'], (result) => {
         const restrictedSites = result.restrictedSites || [];
 
         // Check if current domain matches any restricted site
@@ -277,3 +277,4 @@ setInterval(() => {
         checkRestrictedSite();
     }
 }, 5000);
+
