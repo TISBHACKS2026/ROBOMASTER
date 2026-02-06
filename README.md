@@ -73,6 +73,6 @@ Day 1 - Started discussing ideas
 Day 2- Fixed on the idea and started barinstorming ways to make the extension
 Day 3 - Started coding
 Day 4 - Got access to GitHub and started pushing our code to GitHub
-day 5 - Coming soon
+Day 5 - Coming soon
 
 **Status**: Active Development | **License**: MIT | **Version**: 1.0
