@@ -1,7 +1,7 @@
 # Earn Your Scroll - Browser Extension
 
 ## Problem
-Students are nowadays too addicted to their gadgets, instead of studying they are always on their phone. The traditional parental controls are too rigid which makes the students despise studying even more.This over-restrictive approach often leads to resentment toward academics and reduced motivation to learn.
+Students are nowadays too addicted to their gadgets, instead of studying they are always on their phone. The traditional parental controls are too rigid which makes the students despise studying even more. This over-restrictive approach often leads to resentment toward academics and reduced motivation to learn.
 
 ## Solution
 Gamified extension/app that restricts access to addictive sites( such as YouTube, Instagram, TikTok, Reddit and Facebook), the user gets to visit the restircted website only when they correctly answer the question shown on the flashcard. Correct answers unlock 60 seconds of free browsing on these websites.
