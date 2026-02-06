@@ -1,10 +1,10 @@
 # Earn Your Scroll - Browser Extension
 
 ## Problem
-Students are nowadays too adicted to their gadgets, instead of studying they are always on their phone. The traditional parental controls are too rigid which makes the students despise studying even more.
+Students are nowadays too addicted to their gadgets, instead of studying they are always on their phone. The traditional parental controls are too rigid which makes the students despise studying even more.This over-restrictive approach often leads to resentment toward academics and reduced motivation to learn.
 
 ## Solution
-Gamified extension/app that restricts access to addictive sites( such as YouTube, Instagram, TikTok, Reddit, Facebook), the user gets to visit the restircted website only when they answer correctly answer the question shown on the flashcard. Correct answers unlock 60 seconds of guilt-free browsing.
+Gamified extension/app that restricts access to addictive sites( such as YouTube, Instagram, TikTok, Reddit and Facebook), the user gets to visit the restircted website only when they correctly answer the question shown on the flashcard. Correct answers unlock 60 seconds of free browsing on these websites.
 
 ## How It Works
 1. User tries accessing restricted site
@@ -19,7 +19,7 @@ Gamified extension/app that restricts access to addictive sites( such as YouTube
 - **Custom Sites** - Add/remove domains as needed
 - **Educational Component** - Random flashcard questions from curated database
 - **Progress Tracking** - Lifetime statistics dashboard
-- **Non-dismissible** - Full-screen mode prevents cheating
+- **Non-dismissible** - Full-screen overlay prevents cheating
 
 ## For Adults
 ✅ Boost work productivity - Eliminate Reddit/YouTube time-waste
@@ -37,7 +37,7 @@ Gamified extension/app that restricts access to addictive sites( such as YouTube
 ## Advantages
 - **Lightweight** - 50KB, minimal RAM
 - **Privacy-First** - All data local, no cloud sync
-- **Customizable** - Block only the sites you want
+- **Customizable** - Blocks only the sites you want
 - **Gamified** - Makes restriction feel rewarding
 - **Cross-Platform** - Edge and Chrome
 - **Access** - Very easy to access and user-friendly
@@ -59,18 +59,18 @@ Gamified extension/app that restricts access to addictive sites( such as YouTube
 - Spaced repetition algorithm
 - Difficulty levels (Easy/Medium/Hard)
 - Category-based questions (Math, Science, History, etc.)
-- Parents can set what their ward has to learn
+- Parents can set what their ward has to learn and can also give the questions themselves
 - Leaderboard & achievements
 - Analytics (session history, focus insights)
 - Multi-language support
 - Mobile sync
 
 ## Real Impact ##
-Students want to spend more time on social media while parents want them to study, our solution satisfies both their requests (a win-win situation).
+Our solution aligns students’ natural inclination to social media with parents’ expectations for focused learning by transforming screen time into structured, productive study. This creates a balanced outcome that supports academic progress while maintaining student autonomy.
 
-## Our progrees ##
+## Our progress ##
 Day 1 - Started discussing ideas
-Day 2- Fixed on the idea and started barinstorming ways to make the extension
+Day 2 - Fixed on the idea and started barinstorming ways to make the extension
 Day 3 - Started coding
 Day 4 - Got access to GitHub and started pushing our code to GitHub
 Day 5 - Coming soon
